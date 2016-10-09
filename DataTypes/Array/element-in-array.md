@@ -1,4 +1,4 @@
-# Element in Array
+# Element In Array
 
 ## Array.prototype.indexOf()
 
