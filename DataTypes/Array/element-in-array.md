@@ -102,6 +102,6 @@ if( name in oc(['Qimin', 'Huang', 'China']) ) { ... }
 
 ## References
 
-[1] MDN, [Array.prototype.indexOf()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
+[1] Docs@MDN, [Array.prototype.indexOf()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
 
 [2] Jonathan Snook, [Testing for a Value in JavaScript Array](https://snook.ca/archives/javascript/testing_for_a_v)

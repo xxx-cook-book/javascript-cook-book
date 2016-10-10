@@ -49,4 +49,4 @@ $('.detail-content').get(0).oncopy = addCopyright;
 
 ## References
 
-[1] Selection@MDN, [A Selection object represents the range of text selected by the user or the current position of the caret.](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
+[1] Docs@MDN, [A Selection object represents the range of text selected by the user or the current position of the caret.](https://developer.mozilla.org/en-US/docs/Web/API/Selection)

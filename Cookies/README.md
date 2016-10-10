@@ -97,9 +97,9 @@
 
 ## References
 
-[1] MDN, [Document.cookie](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
+[1] Docs@MDN, [Document.cookie — Get and set the cookies associated with the current document.](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie)
 
-[2] Simple cookie framework@MDN, [A little framework: a complete cookies reader/writer with full Unicode support](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework)
+[2] Docs@MDN, [Simple cookie framework — A little framework: a complete cookies reader/writer with full Unicode support](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework)
 
 [3] Venkatesh Appala@StackOverflow, [How do I create and read a value from cookie?](http://stackoverflow.com/questions/4825683/how-do-i-create-and-read-a-value-from-cookie)
 
